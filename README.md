@@ -8,7 +8,7 @@ Luis Calvo Ruiz · octubre de 2026 · **Versión 1.0**
 
 **El principio.** La IA **lee y no escribe**. Si algún día tiene que escribir en el sistema, eso es otro proyecto, con su propia lista, y antes hay que revisar los contratos y los seguros que lo cubren.
 
-**De dónde sale.** De un laboratorio con cuatro sistemas habituales (un ERP, un CRM, una herramienta de informes y una base de datos), cargados con datos inventados, a los que se conectó una IA en solo lectura. La mayoría de los puntos responde a algo que pasó allí, como un conector que quedó autorizado con el administrador sin avisar, un error que la herramienta presentaba como éxito o una contraseña que se podía leer en una tabla de configuración. No es una norma ni sustituye a la revisión de seguridad que cada empresa haga de sus sistemas. Es lo que conviene comprobar para no llevarse esas sorpresas en producción.
+**De dónde sale.** De cuatro sistemas de ejemplo con datos ficticios (un ERP, un CRM, una herramienta de informes y una base de datos), a los que se conectó una IA en solo lectura. La mayoría de los puntos responde a algo que pasó allí, como un conector que quedó autorizado con el administrador sin avisar, un error que la herramienta presentaba como éxito o una contraseña que se podía leer en una tabla de configuración. No es una norma ni sustituye a la revisión de seguridad que cada empresa haga de sus sistemas. Es lo que conviene comprobar para no llevarse esas sorpresas en producción.
 
 ---
 
